@@ -1,8 +1,8 @@
-# Warmup Activity Day 1
+# Warmup Activity Part I
 
-1. Clone this project to your local machine and open it in Atom.
+1. Follow instructions to set up repository with the gitignore and have it open in Visual Studio with Preview.
 
-2. Create a new file and save it as index.html. Take the [template.html](./template.html) file and replace the contents of the index.html file.
+2. Create a new file and save it as index.html. Generate the template by typing `html:5` and hitting Enter.
 
 3. Modify the title of the web page [the text that appears in the tab] by changing the text between the `<title>` and `</title>` tags to `Trillium Media Design` like so:<br>
    ![Title](images/title.png)
