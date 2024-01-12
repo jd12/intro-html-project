@@ -8,7 +8,7 @@ See if you can update your Trillium home page to look like the picture below: <b
 
 We are now going to use CSS (Cascading Style Sheets) to make our webpage more appealing.
 
-1. Create a new file and save it as `trillium.css`
+1. Create a new folder called `css` and create a file inside of the folder and save it as `trillium.css`
 
 2. Add a link to your new `trillium.css` in your HTML files. This allows your HTML to "see" the CSS and apply the changes.
    ![Link CSS](images/linkCSS.png)
